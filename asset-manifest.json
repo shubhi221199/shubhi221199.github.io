@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.9aa115c6.css",
+    "main.css": "/static/css/main.d6476dac.css",
     "main.js": "/static/js/main.a43262c1.js",
     "static/media/oestin.png": "/static/media/oestin.52087049857c6a563460.png",
     "static/media/hotstar.png": "/static/media/hotstar.babcb9e4add460c9ea9e.png",
@@ -9,11 +9,11 @@
     "static/media/shop.png": "/static/media/shop.e3b1e0c7a351e4452de5.png",
     "static/media/personal.jpg": "/static/media/personal.9ccc1cf26b933f3ddb61.jpg",
     "index.html": "/index.html",
-    "main.9aa115c6.css.map": "/static/css/main.9aa115c6.css.map",
+    "main.d6476dac.css.map": "/static/css/main.d6476dac.css.map",
     "main.a43262c1.js.map": "/static/js/main.a43262c1.js.map"
   },
   "entrypoints": [
-    "static/css/main.9aa115c6.css",
+    "static/css/main.d6476dac.css",
     "static/js/main.a43262c1.js"
   ]
 }
