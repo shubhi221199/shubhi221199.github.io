@@ -419,6 +419,10 @@ ham i{
   border: 1.7px solid var(--light-red);
   border-radius: 7px;
   margin: 20px 0 0 5px;
+
+}
+#resume-button-2{
+    border: 2px solid rgb(255,68,159) ;
 }
 .contact-button:hover{
   background: rgb(255, 107, 107,.1);

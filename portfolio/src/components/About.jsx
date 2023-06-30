@@ -5,7 +5,7 @@ import AOS from "aos";
 export default function About() {
 
   const handleDownload = () => {
-    window.open("https://drive.google.com/file/d/1KmaaCuWl2hZhGL2gnXlFcBQa7FOH4jVT/view", '_blank');
+    window.open("https://drive.google.com/file/d/1xUwnPYCxPysClH7sqDjKL8la6uYEdgkO/view?usp=drive_link", '_blank');
   };
 
   useEffect(() => {
@@ -27,8 +27,12 @@ export default function About() {
           </p>
           <br />
         </div>
-        <a onClick={handleDownload} rel="noreferrer" href={resume} download={"Bharat_Shaw_Resume"} id="resume-button-2" className="contact-button resume-button second-btn">
+        <a onClick={handleDownload} rel="noreferrer" href={resume} download={"SHUBHI_SHARMA_RESUME"} id="resume-button-2" className="contact-button resume-button second-btn">
           Resume</a>
+
+          {/* <a  href={resume} download="SHUBHI_SHARMA_RESUME"><button
+        id="resume-button-2">Resume</button></a> */}
+
       </div>
     </section>
   );

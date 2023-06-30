@@ -8,7 +8,7 @@ export default function getProjects() {
         projectInfo:
          "A React Redux Firebase-based web application that replicates the popular streaming platform Hotstar, allowing users to browse and stream their favorite movies, TV shows, and sports events.",
         techUsed: ["ReactJs", "Redux","Chakra UI", "HTML", "CSS","Firebase","BootStrap"],
-        projectLinkHosted: "my-hotstar-project.web.app/",
+        projectLinkHosted: "https://team-oestin.netlify.app/",
         projectLinkGithub: "https://github.com/shubhi221199/Hotstar_clone",
       },
       {
@@ -19,7 +19,7 @@ export default function getProjects() {
         projectInfo:
          "Indulge in Finger-Lickin' Goodness: The KFC Clone - A Tantalizing Twist on Classic Flavors.",
         techUsed: ["JavaScript", "HTML", "CSS","Bootsrap"],
-        projectLinkHosted: "creative-praline-bb6624.netlify.app/",
+        projectLinkHosted: "https://team-oestin.netlify.app/",
         projectLinkGithub: "https://github.com/NafisAamir/kfc-clone",
       },
       {
@@ -28,7 +28,7 @@ export default function getProjects() {
         image:'shop.png',
         projectInfo: "This is the clone of Shop.com which provide deals on clothes, beauty, shoes & electronics",
         techUsed: ["vanilaJs", "HTML", "CSS"],
-        projectLinkHosted: "darling-travesseiro-cc33f2.netlify.app/",
+        projectLinkHosted: "https://team-oestin.netlify.app//",
         projectLinkGithub: "https://github.com/mithunsen04/Shop.com_Clone",
       },
       {
